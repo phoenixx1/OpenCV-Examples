@@ -10,4 +10,5 @@ F. Show a list of videos recorded in such a way
 
 Done using OpenCV
 To compile the code write the following command in terminal:
+
 g++ -o [output_file_name] main.cpp `pkg-config --cflags --libs opencv`
