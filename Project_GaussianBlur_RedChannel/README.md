@@ -8,9 +8,11 @@
 5. Store this video on the disk 
 6. Show a list of videos recorded in such a way 
 
-Code written using OpenCV.
+Code written using OpenCV C++.
 To compile the code write the following command in terminal:
 
-`g++ -o [output_file_name] main.cpp 'pkg-config --cflags --libs opencv'` 
+`g++ -o [output_file_name] main.cpp 'pkg-config --cflags --libs opencv'`
+
+(replace ' with `)
 
 [To install OpenCV in Linux](http://www.codebind.com/linux-tutorials/install-opencv-ubuntu-18-04-lts-c-cpp-linux/)
