@@ -1,6 +1,6 @@
 ## Face Detection (Basic) webcam
 
-#### :C++ code that can:
+#### C++ code that can:
 1. That can detect faces in a video.
 2. A red box will appear around the detected face
 

@@ -7,3 +7,13 @@
 6.  [Change brightness](./Operations_on_Image/ChangeBrightnessContrast.cpp)
 7.  [Mouse events](./Operations_on_Image/msouseEvents.cpp)
 8.  [Rotate and Scale Image](./Operations_on_Image/rotateScaleImg.cpp)
+
+
+Code written using OpenCV C++.
+To compile the code write the following command in terminal:
+
+`g++ -o [output_file_name] main.cpp 'pkg-config --cflags --libs opencv'`
+
+(replace ' with `)
+
+[To install OpenCV in Linux](http://www.codebind.com/linux-tutorials/install-opencv-ubuntu-18-04-lts-c-cpp-linux/)
