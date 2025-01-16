@@ -1,6 +1,6 @@
 ### Operations on Video
-1.  [Use Webcam to show live image](./Operations_on_Video/usingWebcam.cpp)
-2.  [Adding Trackbar to a Video](./Operations_on_Video/VideoWithTrackbar.cpp)
+1.  [Use Webcam to show live image](./usingWebcam.cpp)
+2.  [Adding Trackbar to a Video](./VideoWithTrackbar.cpp)
 
 Code written using OpenCV C++.
 To compile the code write the following command in terminal:
